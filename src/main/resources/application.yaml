@@ -1,0 +1,3 @@
+spring:
+  application:
+    name: different-response-single-api

@@ -28,7 +28,10 @@ curl -I 'http://localhost:8080/api/paragraph?format=pdf'
 ```
 
 ## For csv response 
-### Direct donwload from browser:
+### Direct download from browser:
+http://localhost:8080/api/paragraph?format=csv
+
+### Other ways, to get data:
 curl -I 'http://localhost:8080/api/paragraph?format=csv'
 
 
